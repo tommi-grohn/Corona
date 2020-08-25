@@ -11,5 +11,4 @@ DATA_CLEANING_3.ipynb
 
 
 
-I will clean the MAIN_NOTEBOOK and DATA_CLEANING_1 in the following days.
-- Tommi
+I will clean the MAIN_NOTEBOOK and DATA_CLEANING_1 in the following days. - Tommi
