@@ -2,12 +2,12 @@
 
 DATA_CLEANING_2.ipynb
 - Reads Väylä's traffic data
-- Adds the data in dataframe 'df_vayla_traffic.csv' in the folder 'Fully_implemented_dataframes' 
+- Creates a file 'df_vayla_traffic.csv' in the folder 'Fully_implemented_dataframes' from the cleaned data. Indeed, DATA_CLEANING_2.ipynb doesn't need to be run!
 
 
 DATA_CLEANING_3.ipynb
 - Reads HSL's bike traffic data
-- Adds the data in dataframe 'df_hsl_traffic.csv' in the folder 'Fully_implemented_dataframes' 
+- Creates a file 'df_hsl_traffic.csv' in the folder 'Fully_implemented_dataframes' from the cleaned data. Indeed, DATA_CLEANING_3.ipynb doesn't need to be run!
 
 
 
