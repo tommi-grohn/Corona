@@ -1,9 +1,15 @@
 # Corona
 
+DATA_CLEANING_2.ipynb
+- Reads Väylä's traffic data
+- Adds the data in dataframe 'df_vayla_traffic.csv' in the folder 'Fully_implemented_dataframes' 
 
-There is a jupyter file 'vayla_traffic_analysis.ipynb' which reads all the files in the folder 'Vayla_data_modified_to_csv' and creates a csv file 'df_vayla_traffic.csv'.
-There are some time series plotted in the file 'vayla_traffic_analysis.ipynb' to show the idea of this created csv file.
+
+DATA_CLEANING_3.ipynb
+- Reads HSL's bike traffic data
+- Adds the data in dataframe 'df_hsl_traffic.csv' in the folder 'Fully_implemented_dataframes' 
 
 
-Soon I will update a new version of the Google's traffic data analysis. 
-For now, old files I added during summer are in a folder 'old_files'.
+
+I will clean the MAIN_NOTEBOOK and DATA_CLEANING_1 in the following days.
+- Tommi
